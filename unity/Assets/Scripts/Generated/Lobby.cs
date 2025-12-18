@@ -30,8 +30,8 @@ namespace Game.Lobby {
             "EhAKCHBsYXllcklkGAEgASgJMngKDExvYmJ5U2VydmljZRI2CgRKb2luEhcu",
             "Z2FtZS5sb2JieS5Kb2luUmVxdWVzdBoVLmdhbWUubG9iYnkuSm9pblJlcGx5",
             "EjAKBUxlYXZlEhguZ2FtZS5sb2JieS5MZWF2ZVJlcXVlc3QaDS5jb21tb24u",
-            "RW1wdHlCJlokZXhhbXBsZS9nYW1lLXNlcnZlci9nYW1lL2xvYmJ5O2xvYmJ5",
-            "YgZwcm90bzM="));
+            "RW1wdHlCKFomb3BlbndvcmxkL2dhbWUtc2VydmVyL2dhbWUvbG9iYnk7bG9i",
+            "YnliBnByb3RvMw=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Common.EmptyReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {

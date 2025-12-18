@@ -7,9 +7,9 @@
 package realtime
 
 import (
-	common "example/game-server/game/common"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
+	common "openworld/game-server/game/common"
 	reflect "reflect"
 	sync "sync"
 	unsafe "unsafe"

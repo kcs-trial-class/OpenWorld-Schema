@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package game.lobby;
 
-option go_package = "example/game-server/game/lobby;lobby";
+option go_package = "openworld/game-server/game/lobby;lobby";
 
 import "common/empty.proto";
 

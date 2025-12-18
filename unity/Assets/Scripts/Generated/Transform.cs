@@ -26,8 +26,8 @@ namespace Game.Common {
           string.Concat(
             "ChtnYW1lL2NvbW1vbi90cmFuc2Zvcm0ucHJvdG8SC2dhbWUuY29tbW9uIjkK",
             "CVRyYW5zZm9ybRIJCgF4GAEgASgCEgkKAXkYAiABKAISCQoBehgDIAEoAhIL",
-            "CgN5YXcYBCABKAJCKFomZXhhbXBsZS9nYW1lLXNlcnZlci9nYW1lL2NvbW1v",
-            "bjtjb21tb25iBnByb3RvMw=="));
+            "CgN5YXcYBCABKAJCKloob3BlbndvcmxkL2dhbWUtc2VydmVyL2dhbWUvY29t",
+            "bW9uO2NvbW1vbmIGcHJvdG8z"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
