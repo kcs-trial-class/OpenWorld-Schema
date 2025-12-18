@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package game.common;
+
+option go_package = "example/game-server/game/common;common";
+
+import "game/common/transform.proto";
+
+message PlayerState {
+  string playerId = 1;
+  Transform transform = 2;
+}

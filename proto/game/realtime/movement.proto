@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+package game.realtime;
+
+option go_package = "example/game-server/game/realtime;realtime";
+
+import "game/common/transform.proto";
+import "game/common/player.proto";
+
+service RealtimeService {
+  rpc Connect(stream ClientState) returns (stream WorldState);
+}
+
+message ClientState {
+  string playerId = 1;
+  game.common.Transform transform = 2;
+}
+
+message WorldState {
+  repeated game.common.PlayerState players = 1;
+}

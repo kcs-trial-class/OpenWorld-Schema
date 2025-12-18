@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package game.common;
+
+option go_package = "example/game-server/game/common;common";
+
+message Transform {
+  float x = 1;
+  float y = 2;
+  float z = 3;
+  float yaw = 4;
+}

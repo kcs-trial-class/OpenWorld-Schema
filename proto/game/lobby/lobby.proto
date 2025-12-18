@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+package game.lobby;
+
+option go_package = "example/game-server/game/lobby;lobby";
+
+import "common/empty.proto";
+
+service LobbyService {
+  rpc Join(JoinRequest) returns (JoinReply);
+  rpc Leave(LeaveRequest) returns (common.Empty);
+}
+
+message JoinRequest {
+  string playerId = 1;
+}
+
+message JoinReply {
+  bool success = 1;
+}
+
+message LeaveRequest {
+  string playerId = 1;
+}
