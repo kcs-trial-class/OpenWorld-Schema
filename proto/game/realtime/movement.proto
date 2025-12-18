@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package game.realtime;
 
-option go_package = "kcs-trial-class/openworld-server/generated/game/realtime;realtime";
+option go_package = "pkg/generated/game/realtime;realtime";
 
 import "game/common/transform.proto";
 import "game/common/player.proto";
