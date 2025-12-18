@@ -2,6 +2,6 @@ syntax = "proto3";
 
 package common;
 
-option go_package = "game/common;common";
+option go_package = "kcs-trial-class/openworld-server/pkg/generated/game/common;common";
 
 message Empty {}
