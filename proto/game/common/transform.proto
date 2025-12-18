@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package game.common;
 
-option go_package = "pkg/generated/game/common;common";
+option go_package = "game/common;common";
 
 message Transform {
   float x = 1;
