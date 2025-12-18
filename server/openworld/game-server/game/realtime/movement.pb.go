@@ -130,7 +130,7 @@ const file_game_realtime_movement_proto_rawDesc = "" +
 	"WorldState\x122\n" +
 	"\aplayers\x18\x01 \x03(\v2\x18.game.common.PlayerStateR\aplayers2W\n" +
 	"\x0fRealtimeService\x12D\n" +
-	"\aConnect\x12\x1a.game.realtime.ClientState\x1a\x19.game.realtime.WorldState(\x010\x01B,Z*example/game-server/game/realtime;realtimeb\x06proto3"
+	"\aConnect\x12\x1a.game.realtime.ClientState\x1a\x19.game.realtime.WorldState(\x010\x01B.Z,openworld/game-server/game/realtime;realtimeb\x06proto3"
 
 var (
 	file_game_realtime_movement_proto_rawDescOnce sync.Once

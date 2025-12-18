@@ -31,8 +31,8 @@ namespace Game.Realtime {
             "V29ybGRTdGF0ZRIpCgdwbGF5ZXJzGAEgAygLMhguZ2FtZS5jb21tb24uUGxh",
             "eWVyU3RhdGUyVwoPUmVhbHRpbWVTZXJ2aWNlEkQKB0Nvbm5lY3QSGi5nYW1l",
             "LnJlYWx0aW1lLkNsaWVudFN0YXRlGhkuZ2FtZS5yZWFsdGltZS5Xb3JsZFN0",
-            "YXRlKAEwAUIsWipleGFtcGxlL2dhbWUtc2VydmVyL2dhbWUvcmVhbHRpbWU7",
-            "cmVhbHRpbWViBnByb3RvMw=="));
+            "YXRlKAEwAUIuWixvcGVud29ybGQvZ2FtZS1zZXJ2ZXIvZ2FtZS9yZWFsdGlt",
+            "ZTtyZWFsdGltZWIGcHJvdG8z"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Game.Common.TransformReflection.Descriptor, global::Game.Common.PlayerReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {

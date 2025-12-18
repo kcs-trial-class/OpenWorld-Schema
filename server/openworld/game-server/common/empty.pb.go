@@ -62,7 +62,7 @@ var File_common_empty_proto protoreflect.FileDescriptor
 const file_common_empty_proto_rawDesc = "" +
 	"\n" +
 	"\x12common/empty.proto\x12\x06common\"\a\n" +
-	"\x05EmptyB#Z!example/game-server/common;commonb\x06proto3"
+	"\x05EmptyB%Z#openworld/game-server/common;commonb\x06proto3"
 
 var (
 	file_common_empty_proto_rawDescOnce sync.Once

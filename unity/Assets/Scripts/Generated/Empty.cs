@@ -24,8 +24,8 @@ namespace Common {
     static EmptyReflection() {
       byte[] descriptorData = global::System.Convert.FromBase64String(
           string.Concat(
-            "ChJjb21tb24vZW1wdHkucHJvdG8SBmNvbW1vbiIHCgVFbXB0eUIjWiFleGFt",
-            "cGxlL2dhbWUtc2VydmVyL2NvbW1vbjtjb21tb25iBnByb3RvMw=="));
+            "ChJjb21tb24vZW1wdHkucHJvdG8SBmNvbW1vbiIHCgVFbXB0eUIlWiNvcGVu",
+            "d29ybGQvZ2FtZS1zZXJ2ZXIvY29tbW9uO2NvbW1vbmIGcHJvdG8z"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
