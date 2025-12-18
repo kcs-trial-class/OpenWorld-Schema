@@ -4,7 +4,7 @@ package game.lobby;
 
 option go_package = "game/lobby;lobby";
 
-import "common/empty.proto";
+import "game/common/empty.proto";
 
 service LobbyService {
   rpc Join(JoinRequest) returns (JoinReply);
