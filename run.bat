@@ -3,7 +3,7 @@ setlocal
 
 REM ===== 設定 =====
 set PROTO_DIR=proto
-set GO_OUT=server
+set GO_OUT=go
 set CS_OUT=unity\Assets\Scripts\Generated
 
 REM ===== protoc の存在チェック =====
