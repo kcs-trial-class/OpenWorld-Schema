@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package game.common;
 
-option go_package = "openworld/game-server/game/common;common";
+option go_package = "generated/openworld/game-server/game/common;common";
 
 import "game/common/transform.proto";
 
